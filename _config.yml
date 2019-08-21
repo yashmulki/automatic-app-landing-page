@@ -34,41 +34,41 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
-    fontawesome_icon_name                 : magic
+  - title                                 : News
+    description                           : Get a curated feed of this week's top political news from trusted sources
+    fontawesome_icon_name                 : newspaper-o
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
-    fontawesome_icon_name                 : mobile
+  - title                                 : Polls
+    description                           : Keep track of how all parties are doing with polling updates
+    fontawesome_icon_name                 : bar-chart
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : play-circle
+  - title                                 : Candidates
+    description                           : View and connect with candidates in the 2019 Federal Election
+    fontawesome_icon_name                 : user-circle
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : sync
-
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : adjust
-  
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : star
-
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : arrow-alt-circle-down
-
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : link
-
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Election Information
+    description                           : View the date for the election and add it to your calendar so you won't forget to vote
     fontawesome_icon_name                 : info-circle
+
+  - title                                 : Representatives
+    description                           : View representatives at all levels of government and easily get in touch with them to voice your concerns
+    fontawesome_icon_name                 : id-card
+  
+  - title                                 : Voting Record
+    description                           : See what your MP is doing in Ottawa with easy access to their recent votes in Parliament
+    fontawesome_icon_name                 : check-circle
+
+  - title                                 : Party Platforms
+    description                           : Explore the options and find your party
+    fontawesome_icon_name                 : file-text
+
+  - title                                 : Organize
+    description                           : Remind your contacts to vote in the election with built in messaging tools
+    fontawesome_icon_name                 : comments
+
+  - title                                 : Support
+    description                           : Contact quantumpointdev@gmail.com for help with any issues
+    fontawesome_icon_name                 : question-circle
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
