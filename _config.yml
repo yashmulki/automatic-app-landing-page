@@ -12,7 +12,7 @@ presskit_download_link                    :                                     
 app_icon                                  : assets/AppIcon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Votify                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : Free                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Voting is one of our fundamental rights and responsibilities. The Votify App aims to make it easy and convenient to stay informed about Canadian politics and encourage higher voter turnout by providing news, electoral information, contact methods for representatives and more. If you'd like access to the Votify API, e-mail quantumpointdev@gmail.com
+app_description                           : A Platform to Connect Voters with the Information They Need
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
