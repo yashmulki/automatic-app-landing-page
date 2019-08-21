@@ -40,7 +40,7 @@ features                                  :
     
   - title                                 : Polls
     description                           : Keep track of how all parties are doing with polling updates
-    fontawesome_icon_name                 : bar-chart
+    fontawesome_icon_name                 : signal
 
   - title                                 : Candidates
     description                           : View and connect with candidates in the 2019 Federal Election
@@ -56,7 +56,7 @@ features                                  :
   
   - title                                 : Voting Record
     description                           : See what your MP is doing in Ottawa with easy access to their recent votes in Parliament
-    fontawesome_icon_name                 : check-circle
+    fontawesome_icon_name                 : check
 
   - title                                 : Party Platforms
     description                           : Explore the options and find your party
